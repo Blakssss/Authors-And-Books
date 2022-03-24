@@ -1,9 +1,9 @@
 package Authors;
 
 public class Books{
-String title;
-Authors author;
-int numPages;
+private String title;
+private Authors author;
+private int numPages;
 
    Books(String title, Authors author){
        this.title=title;
